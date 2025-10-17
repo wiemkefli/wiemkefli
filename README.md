@@ -1,15 +1,14 @@
 # 👋 Hello, I'm Qawiem!
 
-> hello from qawiem ✨
-
----
 
 ### 🧠 About Me
 - 💻 Full-stack Developer from Malaysia  
-- ⚙️ Laravel | jQuery | MySQL  
-- 🌱 Currently learning: API automation, Docker, and system architecture  
-- 🧩 Passionate about building efficient and beautiful systems  
-- 📚 Always exploring new open-source projects  
+- ⚙️ Experienced with Laravel, jQuery, and MySQL  
+- 🌱 Expanding into backend development with Node.js and Express.js  
+- 🧩 Passionate about designing scalable APIs and backend architecture  
+- 💡 Strong interest in building efficient systems with modern JavaScript stacks  
+- 🤝 Open to collaboration and backend-focused opportunities
+
 
 ---
 
@@ -28,4 +27,4 @@
 ---
 
 ### 🎵 Quote / Vibe
-> “Mindlessly codes, occasionally sleeps, and listens to lo-fi beats while debugging.”
+> ““writing code, breaking stuff, learning fast — repeat 🔁””
