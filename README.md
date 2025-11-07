@@ -2,8 +2,7 @@
 
 
 ### 🧠 About Me
-- 💻 Full-stack Developer from Malaysia  
-- ⚙️ Experienced with Laravel, jQuery, and MySQL  
+- 💻 Full-stack Developer from Malaysia    
 - 🌱 Expanding into backend development with Node.js and Express.js  
 - 🧩 Passionate about designing scalable APIs and backend architecture  
 - 💡 Strong interest in building efficient systems with modern JavaScript stacks  
