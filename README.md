@@ -1,13 +1,4 @@
-# 👋 Hello, I'm Qawiem!
-
-
-### 🧠 About Me
-- 💻 Full-stack Developer from Malaysia    
-- 🌱 Expanding into backend development with Laravel and Express.js  
-- 🧩 Passionate about designing scalable APIs and backend architecture  
-- 💡 Strong interest in building efficient systems   
-- 🤝 Open to collaboration and backend-focused opportunities
-
+# 👋 Hello, I'm Qawiem! I'm Passionate about designing scalable APIs and backend architecture. Interested in building efficient systems. Open to collaboration and backend-focused opportunities
 
 ---
 
@@ -21,9 +12,3 @@
 ### 🗒️ Blog & Links
 - 💬 [LinkedIn](https://linkedin.com/in/qawiemzulkefli)
 
-
-
----
-
-### 🎵 Quote / Vibe
-> ““writing code, breaking stuff, learning fast — repeat 🔁””
